@@ -1,4 +1,4 @@
 # javascript
 This is My First Upload Javascript Repository in Git.
 <br>
-Author - Sanatan Jena
+<b><font color="red">Author - Sanatan Jena</font></b>
